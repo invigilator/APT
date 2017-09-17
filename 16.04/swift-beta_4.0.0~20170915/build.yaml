@@ -1,0 +1,11 @@
+package: "swift-beta"
+version: "4.0.0~20170915"
+
+dependencies:
+    - "clang"
+    - "libicu-dev"
+    - "libcurl3"
+
+description: "Swift programming language"
+
+postinst: true
