@@ -1,0 +1,6 @@
+package: "swift"
+version: "3.1.0"
+
+description: "Swift programming language"
+
+postinst: true
