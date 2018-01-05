@@ -1,0 +1,4 @@
+package: "testApp"
+version: "1.0.0~4.0.2"
+
+description: "Funny test app"
