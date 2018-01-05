@@ -1,5 +1,4 @@
-# Vapor APT 
-
+# Vapor APT
 
 The Vapor APT is the easiest way to install Swift and related packages on Ubuntu. This repository is not limited to Vapor, but can be used to install a standalone Swift.
 
@@ -58,3 +57,9 @@ Basically version need to be semver (x.x.x)
 #### Swift pre release
 
 For Swift beta, the version should be e.g. `4.0.0~20170915` the part after `~` is the release date.
+
+### Examples
+
+Default setup Swift: LINK
+
+Build example, Toolbox: LINK
